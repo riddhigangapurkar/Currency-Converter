@@ -88,15 +88,4 @@ currency-converter/
 * Support multiple themes and dark mode.
 
 ---
-📄 License
 
-This project is licensed under the MIT License.
-
-```
-
----
-
-I can also **create a ready-to-use folder structure with screenshots placeholders** and a fully ready GitHub repository format for you.  
-
-Do you want me to do that next?
-```
